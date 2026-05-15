@@ -1,22 +1,31 @@
-# Capture information for User 1
-name1 = input("Enter first user's name: ")
-age1 = int(input("Enter first user's age: "))
-height1 = float(input("Enter first user's height in cm: "))
+# List to store both users
+users = []
 
-print()
+# Capture information for 2 users
+for i in range(2):
+    print(f"\nEnter information for User {i + 1}:")
+    name = input("Enter name: ")
+    age = int(input("Enter age: "))
+    height = float(input("Enter height in cm: "))
 
-# Capture information for User 2
-name2 = input("Enter second user's name: ")
-age2 = int(input("Enter second user's age: "))
-height2 = float(input("Enter second user's height in cm: "))
+    user = {
+        "name": name,
+        "age": age,
+        "height": height
+    }
 
-print()
-print(f"{name1} is {age1} years old and is {height1} cm ")
-print(f"{name2} is {age2} years old and is {height2} cm ")
+    users.append(user)
 
-print()
+# Function to calculate total combined height
+def calculate_total_height(users):
+    total = users[0]["height"] + users[1]["height"]
+    return total
+
+# Display each user's information using a loop
+print("\n--- User Information ---")
+for user in users:
+    print(f"{user['name']} is {user['age']} years old and is {user['height']} cm tall.")
 
 # Calculate and display total combined height
-total_height = height1 + height2
-
-print(f"The total combined height of both users is {total_height} cm.")
+total = calculate_total_height(users)
+print(f"\nThe total combined height of both users is {total} cm.")
