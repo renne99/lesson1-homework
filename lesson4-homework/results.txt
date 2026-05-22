@@ -1,0 +1,447 @@
+{
+    "success": true,
+    "message": "Active groups retrieved successfully",
+    "data": [
+        {
+            "Id": "81c04f9e-668e-47f4-9818-9174eeafe3cc",
+            "Name": "2026 All Stars Class",
+            "Description": "The best of the best",
+            "Year": 2027,
+            "StartDate": "2027-05-01",
+            "MaxCapacity": 67,
+            "CurrentCount": 1
+        },
+        {
+            "Id": "92833dab-c6eb-41ac-bc8c-dbe6b35d58e3",
+            "Name": "2026 All Stars Class1",
+            "Description": "The best of the best",
+            "Year": 2027,
+            "StartDate": "2027-05-01",
+            "MaxCapacity": 67,
+            "CurrentCount": 13
+        },
+        {
+            "Id": "84e73141-6bac-478b-af93-ee03ad492e21",
+            "Name": "2027 All Stars Class",
+            "Description": "The best of the best",
+            "Year": 2027,
+            "StartDate": "2027-05-01",
+            "MaxCapacity": 67,
+            "CurrentCount": 1
+        },
+        {
+            "Id": "2cd9ac56-896b-4c95-995b-792b4cae7c6a",
+            "Name": "2027 Auto Class",
+            "Description": "The best of the best",
+            "Year": 2027,
+            "StartDate": "2027-05-01",
+            "MaxCapacity": 67,
+            "CurrentCount": 0
+        },
+        {
+            "Id": "b2fa9305-36cb-418f-a779-972d22401941",
+            "Name": "2027 Auto001 Class",
+            "Description": "The best of the best",
+            "Year": 2027,
+            "StartDate": "2027-05-01",
+            "MaxCapacity": 67,
+            "CurrentCount": 0
+        },
+        {
+            "Id": "97cf728e-056c-497c-a102-c8b5f193f842",
+            "Name": "2027 Auto1 Class",
+            "Description": "The best of the best",
+            "Year": 2027,
+            "StartDate": "2027-05-01",
+            "MaxCapacity": 67,
+            "CurrentCount": 0
+        },
+        {
+            "Id": "6ea8c0b7-4814-4053-8d64-debb4fc42c93",
+            "Name": "2027 Auto18 Class",
+            "Description": "The best of the best",
+            "Year": 2027,
+            "StartDate": "2027-05-01",
+            "MaxCapacity": 67,
+            "CurrentCount": 0
+        },
+        {
+            "Id": "636ff0e4-12c1-4471-8ec6-2c51448b04f9",
+            "Name": "2027 Auto185 Class",
+            "Description": "The best of the best",
+            "Year": 2027,
+            "StartDate": "2027-05-01",
+            "MaxCapacity": 67,
+            "CurrentCount": 0
+        },
+        {
+            "Id": "bd5a5c40-f4c7-4b82-868b-43767001a53a",
+            "Name": "2027 Auto18756 Class",
+            "Description": "The best of the best",
+            "Year": 2027,
+            "StartDate": "2027-05-01",
+            "MaxCapacity": 67,
+            "CurrentCount": 0
+        },
+        {
+            "Id": "1a4bbc0e-4e65-45da-9b63-a2069c49bc66",
+            "Name": "2027 Auto2 Class",
+            "Description": "The best of the best",
+            "Year": 2027,
+            "StartDate": "2027-05-01",
+            "MaxCapacity": 67,
+            "CurrentCount": 0
+        },
+        {
+            "Id": "49bea66f-6f9e-4259-9948-84da0e9bdd45",
+            "Name": "2027 Auto82 Class",
+            "Description": "The best of the best",
+            "Year": 2027,
+            "StartDate": "2027-05-01",
+            "MaxCapacity": 67,
+            "CurrentCount": 0
+        },
+        {
+            "Id": "76c80aeb-aa5d-4824-93cd-6c284c58668f",
+            "Name": "2027 Automation Class",
+            "Description": "The best of the best",
+            "Year": 2027,
+            "StartDate": "2027-05-01",
+            "MaxCapacity": 67,
+            "CurrentCount": 0
+        },
+        {
+            "Id": "dd3aab00-3077-49a1-9568-000da0def9be",
+            "Name": "2027 Test199 Class",
+            "Description": "The best of the best",
+            "Year": 2027,
+            "StartDate": "2027-05-01",
+            "MaxCapacity": 67,
+            "CurrentCount": 1
+        },
+        {
+            "Id": "5328c91e-fc40-11f0-8e00-5000e6331276",
+            "Name": "1st Group 2026",
+            "Description": "First cohort of students for 2026",
+            "Year": 2026,
+            "StartDate": "2026-01-01",
+            "MaxCapacity": null,
+            "CurrentCount": 277
+        },
+        {
+            "Id": "c1ce77c4-bd1a-42ae-901f-fc3e534c55b8",
+            "Name": "2nd Group 2026",
+            "Description": "string",
+            "Year": 2026,
+            "StartDate": "2026-01-29",
+            "MaxCapacity": null,
+            "CurrentCount": 176
+        },
+        {
+            "Id": "e8d4d9e2-8409-4acf-b6cb-a335c7a6e5bd",
+            "Name": "3nd Group 2026",
+            "Description": "Second cohort of students for 2026",
+            "Year": 2026,
+            "StartDate": "2026-01-29",
+            "MaxCapacity": 30,
+            "CurrentCount": 0
+        },
+        {
+            "Id": "56f089fa-42c9-4210-95f8-75752f8592ae",
+            "Name": "Automation Group",
+            "Description": "This is for Ndosi BDD Assessment 2026",
+            "Year": 2026,
+            "StartDate": "2026-01-01",
+            "MaxCapacity": 30,
+            "CurrentCount": 1
+        },
+        {
+            "Id": "52d8abb4-018a-402c-8c2d-062781f8eb68",
+            "Name": "Automation Group1779173797940",
+            "Description": "This is for Ndosi BDD Assessment 2026",
+            "Year": 2026,
+            "StartDate": "2026-01-01",
+            "MaxCapacity": 30,
+            "CurrentCount": 0
+        },
+        {
+            "Id": "6f56dd9b-c131-4704-bca3-c0a71c862499",
+            "Name": "BreTest",
+            "Description": "Checking out something",
+            "Year": 2026,
+            "StartDate": "2026-05-20",
+            "MaxCapacity": 20,
+            "CurrentCount": 0
+        },
+        {
+            "Id": "be2798ff-179c-4878-a852-8998d381751b",
+            "Name": "BreTest2",
+            "Description": "test",
+            "Year": 2026,
+            "StartDate": "2020-05-25",
+            "MaxCapacity": 20,
+            "CurrentCount": 0
+        },
+        {
+            "Id": "0cd5f4d2-f5af-4286-a78e-1e15f438a26f",
+            "Name": "cele grup",
+            "Description": "dfdddf",
+            "Year": 2026,
+            "StartDate": "2026-05-20",
+            "MaxCapacity": 20,
+            "CurrentCount": 0
+        },
+        {
+            "Id": "73e88ee6-b7f8-45e5-a2d2-3b77291078f1",
+            "Name": "Cucumber",
+            "Description": "Test",
+            "Year": 2026,
+            "StartDate": "2026-05-13",
+            "MaxCapacity": 10,
+            "CurrentCount": 0
+        },
+        {
+            "Id": "4cde4e9d-c18f-4dfe-b556-99cd8e8146c1",
+            "Name": "group 5 assignment",
+            "Description": "group 5 assignment",
+            "Year": 2026,
+            "StartDate": "2026-03-03",
+            "MaxCapacity": 1000,
+            "CurrentCount": 60
+        },
+        {
+            "Id": "1deae17a-c67a-4bb0-bdeb-df0fc9e2e526",
+            "Name": "Group A",
+            "Description": "Mexico, South Africa, South Korea, TBD",
+            "Year": 2026,
+            "StartDate": "2026-03-24",
+            "MaxCapacity": 10000,
+            "CurrentCount": 137
+        },
+        {
+            "Id": "b0664443-c8a4-4a36-a87c-6ac33c6058bc",
+            "Name": "Group T",
+            "Description": "string",
+            "Year": 2026,
+            "StartDate": "2026-01-29",
+            "MaxCapacity": null,
+            "CurrentCount": 11
+        },
+        {
+            "Id": "0fbd2f44-3b58-4bb0-845b-14d1d11a06f8",
+            "Name": "kkk",
+            "Description": "hello",
+            "Year": 2026,
+            "StartDate": "2026-05-04",
+            "MaxCapacity": 77,
+            "CurrentCount": 0
+        },
+        {
+            "Id": "c561d452-a9eb-4628-90c5-588d7b5e019d",
+            "Name": "Magic group",
+            "Description": "Magic Group",
+            "Year": 2026,
+            "StartDate": "2026-05-20",
+            "MaxCapacity": 1500,
+            "CurrentCount": 0
+        },
+        {
+            "Id": "0fc08c68-2786-4d72-b7c4-aa451249ac30",
+            "Name": "My Very Group",
+            "Description": "My Very Group",
+            "Year": 2026,
+            "StartDate": "2026-05-20",
+            "MaxCapacity": 1500,
+            "CurrentCount": 0
+        },
+        {
+            "Id": "528dd3bd-bf40-4e91-bac8-7ba72032a3f9",
+            "Name": "myGroup",
+            "Description": "myGroup",
+            "Year": 2026,
+            "StartDate": "2026-05-18",
+            "MaxCapacity": 20,
+            "CurrentCount": 0
+        },
+        {
+            "Id": "3203b7cf-a450-4d5a-b26b-3f2451623118",
+            "Name": "ndosi",
+            "Description": "ndosi tezting",
+            "Year": 2026,
+            "StartDate": "2026-03-12",
+            "MaxCapacity": 155,
+            "CurrentCount": 27
+        },
+        {
+            "Id": "3ed7b151-271c-4531-97bb-69b2c5abe93f",
+            "Name": "Nkosi testing",
+            "Description": "dfefefd",
+            "Year": 2026,
+            "StartDate": "2026-05-07",
+            "MaxCapacity": 10,
+            "CurrentCount": 0
+        },
+        {
+            "Id": "e07f20cf-cd6c-422d-92b1-55c15bef439f",
+            "Name": "Nkosi tests",
+            "Description": "",
+            "Year": 2026,
+            "StartDate": "2026-01-31",
+            "MaxCapacity": null,
+            "CurrentCount": 93
+        },
+        {
+            "Id": "2f1343d1-4654-4709-a6f0-7585d770e8ee",
+            "Name": "some name",
+            "Description": "some description",
+            "Year": 2026,
+            "StartDate": "2026-05-30",
+            "MaxCapacity": 65456,
+            "CurrentCount": 0
+        },
+        {
+            "Id": "77d711e9-27c1-4119-93e7-aa9688340bd2",
+            "Name": "Test Group",
+            "Description": "This is a test group.",
+            "Year": 2026,
+            "StartDate": "2026-05-30",
+            "MaxCapacity": 20,
+            "CurrentCount": 0
+        },
+        {
+            "Id": "0906ef71-f6dd-4567-bb70-122d528a4ada",
+            "Name": "TestGroup_1779098572195",
+            "Description": "Automated test group description",
+            "Year": 2026,
+            "StartDate": "2026-01-01",
+            "MaxCapacity": 50,
+            "CurrentCount": 0
+        },
+        {
+            "Id": "94442c11-212b-41ea-9dad-c95db95478cb",
+            "Name": "TestGroup_1779098612009",
+            "Description": "Automated test group description",
+            "Year": 2026,
+            "StartDate": "2026-01-01",
+            "MaxCapacity": 50,
+            "CurrentCount": 0
+        },
+        {
+            "Id": "fc983ad5-f41a-45dd-8751-ecc3d62d337b",
+            "Name": "TestGroup_1779102201075",
+            "Description": "Automated test group description",
+            "Year": 2026,
+            "StartDate": "2026-01-01",
+            "MaxCapacity": 50,
+            "CurrentCount": 0
+        },
+        {
+            "Id": "8bc1301e-7266-40bc-8dac-b023bc3b4845",
+            "Name": "TestGrp",
+            "Description": "Desc",
+            "Year": 2026,
+            "StartDate": "2026-05-21",
+            "MaxCapacity": 12,
+            "CurrentCount": 0
+        },
+        {
+            "Id": "4cb78444-e282-4433-b0d2-8aab6df2ac55",
+            "Name": "Testing 123",
+            "Description": "Testing 123",
+            "Year": 2026,
+            "StartDate": "2026-05-20",
+            "MaxCapacity": 1000,
+            "CurrentCount": 0
+        },
+        {
+            "Id": "6fc8aceb-2042-4937-99f2-506351466c6e",
+            "Name": "testing2026",
+            "Description": "testing group",
+            "Year": 2026,
+            "StartDate": "2026-05-27",
+            "MaxCapacity": 15,
+            "CurrentCount": 0
+        },
+        {
+            "Id": "8e822b42-6d98-43ad-a31a-c3d61d71e727",
+            "Name": "That Group",
+            "Description": "That Group",
+            "Year": 2026,
+            "StartDate": "2026-05-18",
+            "MaxCapacity": 100,
+            "CurrentCount": 0
+        },
+        {
+            "Id": "1f9c9a18-35ce-4860-b29e-ab72ed45271e",
+            "Name": "The Magic group",
+            "Description": "The Magic Group",
+            "Year": 2026,
+            "StartDate": "2026-05-20",
+            "MaxCapacity": 1500,
+            "CurrentCount": 0
+        },
+        {
+            "Id": "754cd2c6-05f1-42b2-a624-72adece477fe",
+            "Name": "The Magic group 2",
+            "Description": "The Magic Group 2",
+            "Year": 2026,
+            "StartDate": "2026-05-20",
+            "MaxCapacity": 1500,
+            "CurrentCount": 0
+        },
+        {
+            "Id": "2ede1b62-3947-4f1d-807f-7ecd07a3b08b",
+            "Name": "The Magic group 21",
+            "Description": "The Magic Group 21",
+            "Year": 2026,
+            "StartDate": "2026-05-20",
+            "MaxCapacity": 1500,
+            "CurrentCount": 0
+        },
+        {
+            "Id": "0088eeac-db09-4a4e-aa49-afd19d389e75",
+            "Name": "The Magic group 22",
+            "Description": "The Magic Group 22",
+            "Year": 2026,
+            "StartDate": "2026-05-20",
+            "MaxCapacity": 1500,
+            "CurrentCount": 0
+        },
+        {
+            "Id": "ac42c00b-03d4-4003-8ca0-0a0ecd454f71",
+            "Name": "The Magic group 23",
+            "Description": "The Magic Group 23",
+            "Year": 2026,
+            "StartDate": "2026-05-20",
+            "MaxCapacity": 1500,
+            "CurrentCount": 0
+        },
+        {
+            "Id": "1a8c0421-58a6-4ac2-ab0e-2f422c408e99",
+            "Name": "The Magic group 24",
+            "Description": "The Magic Group 24",
+            "Year": 2026,
+            "StartDate": "2026-05-20",
+            "MaxCapacity": 1500,
+            "CurrentCount": 0
+        },
+        {
+            "Id": "657de153-7ad3-492c-8715-91f8adc15884",
+            "Name": "course assignment",
+            "Description": "Course assignment for Group 4 and 5",
+            "Year": 2025,
+            "StartDate": "2026-03-09",
+            "MaxCapacity": 10000,
+            "CurrentCount": 4
+        },
+        {
+            "Id": "20415043-d918-49e1-8319-4f1a755e644b",
+            "Name": "Dummy",
+            "Description": "dfgh",
+            "Year": 2025,
+            "StartDate": "2026-05-20",
+            "MaxCapacity": 12,
+            "CurrentCount": 1
+        }
+    ]
+}
